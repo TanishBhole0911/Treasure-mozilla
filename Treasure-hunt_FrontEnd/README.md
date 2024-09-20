@@ -1,5 +1,6 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
-
+what do you call a bear who with no ears?
+-B
 ## Getting Started10
 
 First, run the development server:
